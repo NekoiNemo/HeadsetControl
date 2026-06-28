@@ -23,6 +23,7 @@
 #include "devices/steelseries_arctis_7.hpp"
 #include "devices/steelseries_arctis_7_plus.hpp"
 #include "devices/steelseries_arctis_9.hpp"
+#include "devices/steelseries_arctis_gamebuds.hpp"
 #include "devices/steelseries_arctis_nova_3.hpp"
 #include "devices/steelseries_arctis_nova_3p_wireless.hpp"
 #include "devices/steelseries_arctis_nova_5.hpp"
@@ -123,6 +124,7 @@ void DeviceRegistry::initialize()
         registerDevice(std::make_unique<SteelSeriesArctis7Plus>());
         registerDevice(std::make_unique<SteelSeriesArctisNovaProWireless>());
         registerDevice(std::make_unique<SteelSeriesArctisNova3PWireless>());
+        registerDevice(std::make_unique<SteelSeriesArctisGamebuds>());
 
         // HyperX devices
         registerDevice(std::make_unique<HyperXCloudAlphaWireless>());

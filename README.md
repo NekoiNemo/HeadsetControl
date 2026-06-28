@@ -41,6 +41,7 @@ A cross-platform tool to control USB gaming headsets on **Linux**, **macOS**, an
 | SteelSeries Arctis 7+ | All | x | x |   |   | x | x |   |   | x | x |   |   |   |   |   |   |   |
 | SteelSeries Arctis Nova Pro Wireless | All | x | x |   | x | x |   |   |   | x | x |   |   |   |   |   |   |   |
 | SteelSeries Arctis Nova 3P Wireless | L/M | x | x |   |   | x |   |   |   | x | x | x |   | x |   |   |   |   |
+| SteelSeries Arctis Buds | All |  | x |   |   |  |   |   |   |  |  |  |   |  |   |   |   |   |
 | HyperX Cloud Alpha Wireless | All | x | x |   |   | x |   | x |   |   |   |   |   |   |   |   |   |   |
 | HyperX Cloud Flight Wireless | All |   | x |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | HyperX Cloud II Wireless | All |   | x |   |   | x |   |   |   |   |   |   |   |   |   |   |   |   |
